@@ -38,6 +38,7 @@ La función _main_ será la función principal de nuestro programa, es decir, la
    - Operadores Relacionales
    - Operadores de Asignación
 3. Input - Output
+4. Compilación y ejecución
 
 ### Modulo 2 - STD
 
