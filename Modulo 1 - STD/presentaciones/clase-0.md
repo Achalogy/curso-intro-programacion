@@ -10,7 +10,7 @@ Introducción - Computación Básica
 
 ---
 
-## Temas
+## Modulo Introductorio
 
 1. Windows y Linux
 2. Computación Básica

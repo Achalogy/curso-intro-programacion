@@ -42,9 +42,9 @@ La función _main_ será la función principal de nuestro programa, es decir, la
 2. Operadores
    - Operadores Aritmeticos
    - Incrementos y Decrecimientos
+   - Operadores de Asignación
    - Operadores Lógicos
    - Operadores Relacionales
-   - Operadores de Asignación
 3. Input - Output
 4. Compilación y ejecución
 

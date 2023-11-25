@@ -168,6 +168,12 @@ cout << "Hola, ";
 cout << "Juan";
 ```
 
+Adicionalmente si queremos mostrar por pantalla numeros de coma flotante, debemos establecer un máximo en la cantidad de números luego de la coma:
+
+```c++
+printf("%.2f", item);
+```
+
 Cualquiera de las dos formas es valida. Un ejemplo de un programa simple en c++:
 
 ```cpp
