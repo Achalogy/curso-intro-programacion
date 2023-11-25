@@ -6,6 +6,32 @@ Linux y Windows son dos sistemas operativos ampliamente utilizados que presentan
 
 Por otro lado, Windows, desarrollado por Microsoft, es un sistema operativo propietario y de código cerrado. Aunque es ampliamente utilizado en entornos de escritorio, también se utiliza en servidores y otros dispositivos. Windows se caracteriza por su interfaz gráfica de usuario intuitiva y su amplio soporte de software, especialmente para aplicaciones de uso cotidiano. Sin embargo, la seguridad a veces ha sido un tema de debate, y la actualización periódica del sistema puede ser un proceso más intrusivo en comparación con el modelo más fluido de actualizaciones en Linux. En resumen, la elección entre Linux y Windows a menudo depende de las necesidades específicas del usuario, ya sea para entornos empresariales, desarrollo de software o simplemente el uso diario de una computadora.
 
+- **Terminal:** Es una interfaz de texto que te permite interactuar con la computadora utilizando comandos.
+
+- **Sistema de Archivos:** Organiza y almacena datos en la computadora. Los sistemas operativos utilizan una estructura de carpetas (directorios) y archivos.
+
+Para abrir una terminal en windows, podemos usar distintas aplicaciones según la versión del sistema operativo. Si usas **PowerShell** o **Terminal** en una versión superior a _Windows 11_ también podrás usar comandos de Linux.
+
+### Comandos Básicos:
+
+- **ls (List):** Muestra los archivos y carpetas en el directorio actual.
+- **cd (Change Directory):** Cambia el directorio.
+- **mkdir (Make Directory):** Crea un nuevo directorio.
+- **cp (Copy):** Copia archivos o directorios.
+- **mv (Move):** Mueve o renombra archivos y directorios.
+- **rm (Remove):** Elimina archivos o directorios (¡cuidado con este comando!).
+
+### Sistema de Archivos:
+
+**/:** Directorio raíz.
+**/home: o ~** Contiene los directorios de usuarios en Linux.
+**C:\Users:** Contiene los directorios de usuarios en Windows.
+
+### Rutas Absolutas y Rutas Relativas:
+
+**Absolutas:** Especifican la ruta completa desde el directorio raíz.
+**Relativas:** Especifican la ruta desde el directorio actual.
+
 ## Plantilla Base
 
 Nuestros programas iniciarán con la siguiente estructura:
