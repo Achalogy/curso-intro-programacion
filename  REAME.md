@@ -28,6 +28,14 @@ La función _main_ será la función principal de nuestro programa, es decir, la
 
 ## Contenido
 
+### Modulo Introductorio
+
+1. Windows y Linux
+2. Computación Básica
+   - Terminal
+   - Comandos Básicos
+   - Sistema de archivos
+
 ### Modulo 1 - STD
 
 1. Variables y tipos de datos
@@ -48,6 +56,8 @@ La función _main_ será la función principal de nuestro programa, es decir, la
    - Condicionales Ternarios
    - Bucles
    - Switch
+3. Archivos tipo header
+4. Compilación
 
 ### Modulo 3 - STD
 

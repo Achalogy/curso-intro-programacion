@@ -1,5 +1,11 @@
 # Modulo 1 - STD
 
+## Window y Linux
+
+Linux y Windows son dos sistemas operativos ampliamente utilizados que presentan diferencias fundamentales en sus enfoques y estructuras. Linux es un sistema operativo de código abierto, lo que significa que su código fuente es accesible y modificable por cualquier persona. Esta característica fomenta la colaboración y la innovación, permitiendo que la comunidad de usuarios contribuya al desarrollo y mejora continua del sistema. Linux es conocido por su estabilidad, seguridad y eficiencia en entornos de servidores, siendo la elección preferida para muchos servidores web.
+
+Por otro lado, Windows, desarrollado por Microsoft, es un sistema operativo propietario y de código cerrado. Aunque es ampliamente utilizado en entornos de escritorio, también se utiliza en servidores y otros dispositivos. Windows se caracteriza por su interfaz gráfica de usuario intuitiva y su amplio soporte de software, especialmente para aplicaciones de uso cotidiano. Sin embargo, la seguridad a veces ha sido un tema de debate, y la actualización periódica del sistema puede ser un proceso más intrusivo en comparación con el modelo más fluido de actualizaciones en Linux. En resumen, la elección entre Linux y Windows a menudo depende de las necesidades específicas del usuario, ya sea para entornos empresariales, desarrollo de software o simplemente el uso diario de una computadora.
+
 ## Plantilla Base
 
 Nuestros programas iniciarán con la siguiente estructura:
